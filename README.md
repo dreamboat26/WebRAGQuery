@@ -100,15 +100,9 @@ Sample prompts for triggring different functionalities of the Chatbot:
 3. To search the web for a specific content (e.g videos): `I am looking for videos that explain how to train a large language model`
 4. To use its own knowledge (e.g debug a python code): `debug the following code <your code and the error>`
 
-**YouTube video:** [Link](https://www.youtube.com/watch?v=KoWjy5PZdX0&t=266s)
-
-**Slides:** [Link](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/presentation/presentation.pdf)
-
 **Extra read:**
 - [GPT model](https://platform.openai.com/docs/models/overview) 
 - [duckduckgo-search](https://pypi.org/project/duckduckgo-search/)
 - [chainlit](https://docs.chainlit.io/get-started/overview)
 - [Langchain](https://python.langchain.com/docs/get_started/quickstart)
 - [ChromaDB](https://www.trychroma.com/)
-
-
